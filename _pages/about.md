@@ -14,7 +14,9 @@ I am presently working at [Qorvo Inc.](https://www.qorvo.com/) as a [Sr. Enginee
 
 Previous work and research
 ======
-Although I got trained as an engineer, my most comfortable corner to dwell is the physics of materials. Physics of materials and the tools to grow and understand the materials, such as epitaxy, spectroscopy, X-ray scattering etc.
+Although I got trained as an engineer, my most comfortable corner to dwell is the physics of materials. Physics of materials and the tools to grow and understand the materials, such as epitaxy, spectroscopy, X-ray scattering etc. My introduction to materials' physics in the lab happened with an internship at the [NGPR lab](https://www.ngprlab.com/). My first project was to fabricate and characterize an organic-inorganic hybrid solar cell.
+
+Since the days of studying Halliday-Resnick-Walker and from the learned teachers, I have come to believe that physics is a way of thinking. During m
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
