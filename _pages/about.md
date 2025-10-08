@@ -2,6 +2,7 @@
 permalink: /
 title: "About me"
 author_profile: true
+mathjax: true
 redirect_from: 
   - /about/
   - /about.html
@@ -26,8 +27,8 @@ If interested, please visit the [research](https://sgphy.github.io/research) pag
 Besides work
 ======
 
-I love hiking, although now I have compromised that for a long lost love, reading. However, I did hike consistently in the 2500- 3500 metres ranges, every once in a while going higher. Two of the emblematic peaks I climbed were Pico Aneto (3404 m) and Pica d'Estats (3143 m), among others. 
+I love hiking, although now I have compromised that for a long lost love, reading. However, I did hike consistently in the 2500- 3500 metres ranges, every once in a while going higher than that. Two of the emblematic peaks I climbed were Pico Aneto (3404 m) and Pica d'Estats (3143 m), among others. 
 
-I recently read 'Critical mass' by Phillip Ball and now I am back to reading 'Nexus' by Yuval Noah Harari.
+I recently read 'Critical mass' by Phillip Ball. It was scientific treat but did not get a lot of the old Gregorian/English references. Now I am back to reading 'Nexus' by Yuval Noah Harari.
 
-I am deeply interested in socio-politics, but unfortunately don't understand well an important chunk of it, the economics.
+I am deeply interested in socio-politics, but unfortunately don't understand well an important chunk of it, the economics. As you might guess, very often I find myself indulged in heated debates.
