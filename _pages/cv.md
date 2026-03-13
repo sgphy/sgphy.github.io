@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics (2024), Summa cum laude.
+* Int. B.Tech & M.Tech (2018), Energy Engineering.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* 2021-2024: Doctoral student
+  * ICN2, Barcelona
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Advisors: Prof. Gustau Catalan, Dr. David Pesquera, Dr. Gabriele De Luca
 
 * Fall 2015: Research Assistant
   * GitHub University
