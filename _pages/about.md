@@ -28,7 +28,7 @@ If interested, please visit the [research](https://sgphy.github.io/research) pag
 Besides work
 ======
 
-I love hiking, although now I have compromised that for a long lost love, reading. However, I did hike consistently in the 2500- 3500 metres ranges, every once in a while going higher than that. Two of the emblematic peaks I climbed were Pico Aneto (3404 m) and Pica d'Estats (3143 m), among others. 
+I love hiking, although now I have compromised that for a long lost love, reading. However, I did hike consistently in the 2500- 3500 metres ranges, every once in a while going higher than that. Some of the emblematic peaks I climbed were Mont Blanc (4807 m), Pico Aneto (3404 m) and Pica d'Estats (3143 m), among others. 
 
 I recently read "Critical mass" by Phillip Ball. It was scientific treat but did not get a lot of the old Gregorian/English references. Now I am back to reading "Nexus" by Yuval Noah Harari. At the same time, I am re-reading 'A universe from nothing' by Lawrence Krauss.
 
