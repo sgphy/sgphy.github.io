@@ -26,14 +26,14 @@ Work experience
 			* SCS, European XFEL (Germany), October 2022.
 			* FemtoMAX, MAX IV (Sweden), February 2023.
 			* FXE, European XFEL (Germany), February 2024.
-		* XAS and XMCD on HfxZr1−xO2 thin films at BOREAS, ALBA (Spain), April 2023.
+		* XAS and XMCD on $$Hf_{x}Zr_{1−x}O_{2}$$ thin films at BOREAS, ALBA (Spain), April 2023.
 		* Ultrafast metal-insulator phase transition in VO2 thin films at SACLA, Spring-8 (Japan), June 2023.
 		* BCDI of epitaxial VO2 nanocrystals, NanoMAX, MAXIV (Sweden), September 2023.
 		* Ultrafast spatio-temporal pump-probe spectroscopy.
 		* Atomic force microscopy (PFM, MFM, KPFM), Doppler and holographic interferometry, Nanoindentation.
 	* Visiting researcher, EPFL (Switzerland), May - June 2022.
 	* Thesis: "Light-matter interaction in polar and strongly correlated oxides".
- 	* Advisors: [Prof. Gustau Catalan]((https://scholar.google.com/citations?user=74q4GjoAAAAJ&hl=en), Dr. David Pesquera, Dr. Gabriele De Luca
+ 	* Advisors: [Prof. Gustau Catalan](https://scholar.google.com/citations?user=74q4GjoAAAAJ&hl=en), Dr. David Pesquera, Dr. Gabriele De Luca
 
 * 2019-2020: Research Assistant
 	* Fabrication of halide perovskite solar cells and photodetectors.
@@ -42,24 +42,9 @@ Work experience
 	  Institut Laue-Langevin, Grenoble (France), October 2019.
 
 * 2017-2018: Research Intern
-  * Fabrication of quantum dot based optoelectronic devices.
+  * Fabrication of quantum dot based optoelectronic devices, primarily solar cells.
   * Electronic characterization of devices (Impedance spectroscopy, Quantum efficiency measurement, Photocurrent spectroscopy)
   * Thesis: "Surface Passivation Strategies for High Performance Colloidal Quantum Dot Solar Cells"
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
