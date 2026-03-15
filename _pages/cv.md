@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
 Education
 ======
 * Ph.D in Physics (2024), summa cum laude.
 * Int. B.Tech & M.Tech (2018), Energy Engineering, 8.88/10 (first division with distinction).
 * Diploma in IT (2010), Grade: Excellent.
+
 Work experience
 ======
 * 2021-2024: Doctoral student at ICN2, Barcelona
