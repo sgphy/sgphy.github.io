@@ -7,5 +7,4 @@ excerpt: 'Using ultrafast THz emission spectroscopy on epitaxial RuO2 thin films
 date: 2026-02-23
 venue: 'Physical Review B'
 paperurl: 'https://doi.org/10.1103/d17q-1lg4'
-citation: 'Jechumtál, J., Gueckstock, O., Jasensky, K., Kašpar, Z., Olejník, K., Gaerner, M., Reiss, G., Moser S., Kessler, P., De Luca, G., Ganguly, S., Santiso, J., Scheffler, D., Zázvorka, J., Kubaščík, P., Reichlová, H., Schmoranzerová, E., Němec, P., Jungwirth, T., Kužel, P., Kampfrath, T., &amp; Nádvorník, L. (2026). &quot;Spin- to charge-current conversion in altermagnetic candidate RuO2 probed by terahertz emission spectroscopy.&quot; <i>Physical Review B</i>, 113, 054439. doi:10.1103/d17q-1lg4.'
 ---

@@ -7,5 +7,4 @@ excerpt: 'We report a solution-phase ligand exchange strategy using alkali metal
 date: 2019-08-08
 venue: 'Journal of Materials Science: Materials in Electronics'
 paperurl: 'https://doi.org/10.1007/s10854-019-01992-9'
-citation: 'Tulsani, S.R., Ganguly, S., &amp; Rath, A.K. (2019). &quot;Inorganic metal iodide mediated solution phase surface passivation for quantum dot solar cell.&quot; <i>Journal of Materials Science: Materials in Electronics</i>. 30, 16234–16243. doi:10.1007/s10854-019-01992-9.'
 ---

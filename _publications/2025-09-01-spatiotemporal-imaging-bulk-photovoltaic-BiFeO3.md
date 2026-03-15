@@ -7,5 +7,4 @@ excerpt: 'Using ultrafast spatiotemporal microscopy on multiferroic BiFeO3, we d
 date: 2025-09-01
 venue: 'arXiv (preprint)'
 paperurl: 'https://arxiv.org/abs/2509.01729'
-citation: 'Ganguly, S., Varghese, S., Schankler, A.M., Xu, X., Morita, K., Viret, M., Rappe, A.M., Catalan, G. (2025). &quot;Direct spatiotemporal imaging of a long-lived bulk photovoltaic effect in BiFeO3.&quot; <i>arXiv</i>. arXiv:2509.01729.'
 ---
