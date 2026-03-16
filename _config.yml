@@ -24,7 +24,7 @@ repository               : "sgphy/sgphy.github.io"
 author:
   # Biographic information
   avatar           : "profilesg.jpeg"
-  name             : "Saptam Ganguly"
+  name             : "Dr. Saptam Ganguly"
   pronouns         : # example: "she/her"
   bio              : "Material Scientist, X-ray scattering, Structural dynamics, Phase transitions, Multiferroics, Epitaxy"
   location         : "Earth"
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=e7n3xrYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2090-6622"
+  orcid            : "https://orcid.org/0000-0002-2090-6622"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Saptam-Ganguly?ev=hdr_xprf"
