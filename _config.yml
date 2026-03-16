@@ -96,6 +96,8 @@ post_categories:
     title: 'Socio-Politics'
   culture:
     title: 'Culture'
+  personal:
+    title: 'Personal'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
