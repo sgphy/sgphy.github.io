@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Saptam Ganguly" #/ Site Title
 title_separator          : "-"
 name                     : "Saptam Ganguly"
-description              : "Material Scientist; X-rays; Structural dynamics of crystals; Epitaxy"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Material Scientist; X-rays; Structural dynamics of crystals; Epitaxy; Socio-politics; Culture"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://sgphy.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ author:
   location         : "Earth"
   employer         : "Qorvo Inc."
   uri              : # URL
-  email            : "cmphikes@gmail.com"
+  email            : "cmphikes[at]gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -87,6 +87,15 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+    
+# Blog Post Categories
+post_categories:
+  science:
+    title: 'Science & Research'
+  socio-politics:
+    title: 'Socio-Politics'
+  culture:
+    title: 'Culture'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -135,12 +144,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "saptamg"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "images/profilesg.jpeg"
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -214,7 +223,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  #math_engine: mathjax
+  math_engine: mathjax
 
 
 # These settings control the types of collections used by the template
