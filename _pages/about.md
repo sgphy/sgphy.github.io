@@ -33,3 +33,5 @@ I love hiking, although now I have compromised that for a long lost love, readin
 I recently read "Critical mass" by Phillip Ball. It was scientific treat but did not get a lot of the old Gregorian/English references. Now I am back to reading "Nexus" by Yuval Noah Harari. At the same time, I am re-reading 'A universe from nothing' by Lawrence Krauss.
 
 I am deeply interested in socio-politics, but unfortunately don't understand well an important chunk of it, the economics. As you might guess, very often I find myself indulged in heated debates.
+
+Recent updates - Learning Morse code.
