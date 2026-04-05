@@ -23,7 +23,7 @@ repository               : "sgphy/sgphy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilesg.jpeg"
+  avatar           : "profile_pic.jpeg"
   name             : "Dr. Saptam Ganguly"
   pronouns         : # example: "she/her"
   bio              : "Material Scientist, X-ray scattering, Structural dynamics, Phase transitions, Multiferroics, Epitaxy"
