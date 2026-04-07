@@ -22,7 +22,10 @@ main:
 
   #- title: "Talks"
   #  url: /talks/      
-    
+
+  - title: "Quotes"
+    url: /quotes/
+
   - title: "Images"
     url: /portfolio/
     
